@@ -18,3 +18,4 @@ for child in root.iter():
     except:
         el_data[path] = 'empty'
     data.append(el_data)
+print(data)
